@@ -1,18 +1,66 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/in-illo-perferendis-temporibus",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "After Effects plugin for exporting animations to SVG + JavaScript or canvas + JavaScript",
+  "main": "./build/player/lottie.js",
+  "sideEffects": false,
+  "keywords": [
+    "animation",
+    "canvas",
+    "svg",
+    "after effects",
+    "plugin",
+    "export"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.4",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-node-resolve": "^13.0.6",
+    "cheerio": "^1.0.0-rc.2",
+    "command-line-args": "^5.2.1",
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "express": "^4.18.2",
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^7.0.0",
+    "puppeteer": "^20.5.0",
+    "rollup": "^2.61.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "uglify-js": "^3.4.9",
+    "watch": "^1.0.2"
   },
-  "author": "",
+  "types": "./index.d.ts",
   "license": "MIT",
+  "dependencies": {
+    "@supernpm2024/at-quidem-repellat-iusto": "^1.0.0",
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/dignissimos-accusamus-libero-cumque": "^1.0.0",
+    "@supernpm2024/dolor-distinctio-nisi-cupiditate": "^1.0.0",
+    "@supernpm2024/labore-repudiandae-dolorem-in": "^1.0.0",
+    "@supernpm2024/laboriosam-ipsam-assumenda-maiores": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/praesentium-ipsa-odio-ullam": "^1.0.0",
+    "@supernpm2024/quis-ab-laboriosam-veniam": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/sunt-blanditiis-totam-eos": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0",
+    "@supernpm2024/voluptatem-eius-officia-voluptatem": "^1.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/supernpm2024/in-illo-perferendis-temporibus.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/supernpm2024/in-illo-perferendis-temporibus/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/in-illo-perferendis-temporibus/issues"
+  },
+  "author": "ellentea",
+  "packageManager": "yarn@4.1.1"
 }
